@@ -13,7 +13,7 @@ Most Question are asked in HR Interview
 that's all about me.
 
 # 2) Why are you join Newton School ?
-          At the end of the Graduation i have some health challenges that did not allow to attent my college for a long time as well as some of the placement companny that are comming for more Service/Product based. i want to join  a Service/Product based companny. i want to get a software development as a career so i thought joining a Newton School will be a good spepping stone to learn development first before i apply to any such Organization.
+          At the end of graduation i have some health challenges that did not allow me to attent my college for a long time as well as some of the placement companny that are comming for more service/product based. I want to join  a service/product based companny. I want to get a software development as a career so i thought joining a newton school will be a good spepping stone to learn development first before i apply to any such organization.
 
 # 3) Difference between Hard Working and Smart Working.
           Hard work tends to be when someone spends a great amount of time completing many things. However,
@@ -33,8 +33,7 @@ Example:
 TCS is a Service based company and his provide a Consultancy, Engineering and Business Solutions Services.
 
 # 5) Which domain you would like to work.
-          I would like to work in the backend domain because my expertise is in java i have been enable to upskill my self in the past 6 month
-          in backend technology other than java is well i have been enable to create some front-end project as well as back-end project this gives me the confident of hand working with backend domain. that's why i'm confident that i can contribute independently in the backend domain to your organization.
+          I would like to work in the backend domain because my expertise is in java i have been enable to upskill my self in the past 6 month in backend technology other than java is well i have been enable to create some front-end project as well as back-end project this gives me the confident of hand working with backend domain. that's why i'm confident that i can contribute independently in the backend domain to your organization.
 
 # 6) Why did you join Us.
           I believe {Company Name} is a Product/Service based company it's a famous company it has a good reputation in the market along with that I have done some research about the growth and learning of opportunity that {Company Name} provides to its young developer about its work culture there by I feel it is a great opportunity to apply my skills learn from the best in the industry and me able to implement this to your organization and I feel {Company Name} is an organization which is fast growing dynamic environment will help me learn a lot that's why I am Joining you only.
