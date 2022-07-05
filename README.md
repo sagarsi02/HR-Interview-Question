@@ -13,7 +13,7 @@ Most Question are asked in HR Interview
 that's all about me.
 
 # 2) Why are you join Newton School ?
-          At the end of graduation i have some health challenges that did not allow me to attent my college for a long time as well as some of the placement companny that are comming for more service/product based. I want to join  a service/product based companny. I want to get a software development as a career so i thought joining a newton school will be a good spepping stone to learn development first before i apply to any such organization.
+At the end of graduation i have some health challenges that did not allow me to attent my college for a long time as well as some of the placement companny that are comming for more service/product based. I want to join  a service/product based companny. I want to get a software development as a career so i thought joining a newton school will be a good spepping stone to learn development first before i apply to any such organization.
 
 # 3) Difference between Hard Working and Smart Working.
           Hard work tends to be when someone spends a great amount of time completing many things. However,
