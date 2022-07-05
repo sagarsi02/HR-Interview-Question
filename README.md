@@ -1,6 +1,6 @@
 # HR-Interview-Question
 Most Question are asked in HR Interview
-  • 1) Introduction
+  • Introduction
   • 2) Why are you join Newton School ?
   • 3) Difference between Hard Working and Smart Working.
   • 4) Difference between Product and Service based.
