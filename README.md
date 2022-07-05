@@ -1,18 +1,18 @@
 # HR-Interview-Question
 Most Question are asked in HR Interview
-  • Introduction
-  • 2) Why are you join Newton School ?
-  • 3) Difference between Hard Working and Smart Working.
-  • 4) Difference between Product and Service based.
-  • 5) Which domain you would like to work.
-  • 5) Which domain you would like to work.
-  • 6) Why did you join Us.
-  • 7) Why sould i hire you ?
-  • 8) Strength
-  • 9) Qualito or time delivery.
-  • 10) Sallery Expectation.
-  • 11) Your Unique Identity compare with others.
-  • 12) Any Question for me.
+  1) Introduction
+  2) Why are you join Newton School ?
+  3) Difference between Hard Working and Smart Working.
+  4) Difference between Product and Service based.
+  5) Which domain you would like to work.
+  5) Which domain you would like to work.
+  6) Why did you join Us.
+  7) Why sould i hire you ?
+  8) Strength
+  9) Qualito or time delivery.
+  10) Sallery Expectation.
+  11) Your Unique Identity compare with others.
+  12) Any Question for me.
 
 
 
