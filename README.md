@@ -40,6 +40,7 @@ I believe {Company Name} is a Product/Service based company it's a famous compan
 
 # 7) Why sould we hire you ?
 I believe you should hire me for 2 key reason. 
+
 one is my technical fitness to this job description I believe I have done my certification program in Java i have worked on my skills at Newton School as well as the been evaluated at the tech background let your organization as well so I feel I am technically fit.
 
 Other than that I believe in industry ready are you might for I have no work experience how do you I say that I say that because of the Newton School mentorship program my mentors are top product or Service based companies interact with me every week to make me understand mind set in the psychology how top it product or service based company function so when I join your company I can come with my technical skill I can come with industry ready and can be productive for immediate base so this is what I am come to with my candidature
