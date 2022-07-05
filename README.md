@@ -1,7 +1,23 @@
 # HR-Interview-Question
 Most Question are asked in HR Interview
+# 1) Introduction
+# 2) Why are you join Newton School ?
+# 3) Difference between Hard Working and Smart Working.
+# 4) Difference between Product and Service based.
+# 5) Which domain you would like to work.
+# 5) Which domain you would like to work.
+# 6) Why did you join Us.
+# 7) Why sould i hire you ?
+# 8) Strength
+# 9) Qualito or time delivery.
+# 10) Sallery Expectation.
+# 11) Your Unique Identity compare with others.
+# 12) Any Question for me.
 
-# 1) Introduction 
+
+
+
+# 1) Introduction
   Good morning sir/ madam,
   Thank you for giving me the opportunity to introduce myself.
        My name is Sagar Singh. I'm basically from Bihar but currently live in Bhopal, Madhya Pradesh. i have done my schooling from my home town Ara, Bihar. Recently i have done my B-Tech with computer Science Branch from Bhabha Engineering Research Institute College, Bhopal, Madhya Pradesh.
@@ -38,7 +54,7 @@ I would like to work in the backend domain because my expertise is in java i hav
 # 6) Why did you join Us.
 I believe {Company Name} is a Product/Service based company it's a famous company it has a good reputation in the market along with that I have done some research about the growth and learning of opportunity that {Company Name} provides to its young developer about its work culture there by I feel it is a great opportunity to apply my skills learn from the best in the industry and me able to implement this to your organization and I feel {Company Name} is an organization which is fast growing dynamic environment will help me learn a lot that's why I am Joining you only.
 
-# 7) Why sould we hire you ?
+# 7) Why sould i hire you ?
 I believe you should hire me for 2 key reason. 
 
 one is my technical fitness to this job description I believe I have done my certification program in Java i have worked on my skills at Newton School as well as the been evaluated at the tech background let your organization as well so I feel I am technically fit.
